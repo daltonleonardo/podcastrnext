@@ -1,3 +1,22 @@
+# [NLW#5] Trilha ReactJS
+
+## Configurações do ambiente
+https://www.notion.so/Configura-es-do-ambiente-6dd0c69e71e141ef9492b00ba310a2fe
+
+## Wallpaper
+https://drive.google.com/drive/folders/1mBkU9jpxLHSYURY3QCQ8TP8xLlOwvzsf
+
+## Discord
+https://discord.com/channels/327861810768117763/799718637728170004
+
+## Aula 01 - Liftoff
+https://nextlevelweek.com/episodios/react/1/edicao/5?utm_source=convertkit&utm_medium=email&utm_campaign=evento&utm_term=comunidade_react&utm_content=aula01
+We're go for launch. É hora de decolar e partir rumo ao próximo nível. Esse é o começo da nossa missão.
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
