@@ -8,7 +8,7 @@ import { useRouter } from "next/router";
 import { api } from "../../services/api";
 import { convertDurationToTimeString } from "../../utils/convertDurationToTimeString";
 import styles from "./episode.module.scss";
-// import { usePlayer } from "../../contexts/PlayerContext";
+import { usePlayer } from "../../contexts/PlayerContext";
 
 type Episode = {
     id: string;
@@ -27,7 +27,7 @@ type Episode = {
   };
 
 export default function Episode({ episode }: EpisodeProps) {
-    //const { play } = usePlayer()
+    const { play } = usePlayer()
     const router = useRouter();
 
     if(router.isFallback) {
